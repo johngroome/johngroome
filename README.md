@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Groome
-- 👀 I’m interested in all development languages and am an expert in Delphi, C#, Oracle DBMS, Microsoft Sql and MySql
+- 👀 I’m interested in all development languages and am an expert in Delphi, C#, PHP, Oracle DBMS, Microsoft Sql and MySql
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web and mobile application development
 - 📫 How to reach me john@lciconsulting.co.za
